@@ -1,0 +1,2 @@
+Esse repositório serve para a resolução estruturada de problemas, matéria presente no curso de Sistemas da informação da Toledo Prudente. 
+A função desse repositório é armazenar os códigos das atividades, trabalhos e provas da matéria que se passa ao decorrer do 2º semestre do ano de 2023
