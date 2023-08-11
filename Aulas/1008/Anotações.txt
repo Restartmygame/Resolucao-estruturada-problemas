@@ -1,0 +1,9 @@
+função - utiliza "int" e retorna valores
+procedimento - utiliza void, não retorna valores
+
+o "return" apenas retorna um valor
+
+a função obrigatoriamente tem que ser atribuida a uma variável no void main para retornar um valor
+
+system("cls"); : limpa a tela
+system("pause"); : pausa a execução
