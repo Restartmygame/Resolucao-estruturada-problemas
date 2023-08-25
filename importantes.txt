@@ -1,0 +1,9 @@
+Passagem de parâmetro por valor não muda as variaveis do programa principal no procedimento ou função,
+eles não compartilham variáveis;
+
+passagem de parâmetro por referência usa o mesmo espaço na memória para  as variaveis 
+e as alterações feitas na função ou procedimento alteram as variaveis do programa principal;
+
+procedimento: utiliza void e não retorna nenhum valor para o programa principal;
+
+função: utiliza int, char, float, etc e retorna algum valor para o programa principal; 
