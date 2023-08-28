@@ -15,7 +15,7 @@ void somar_a_b(int a, int b){
 	soma = a + b;
 	
 	printf("Esses dois numeors serao somados!!!!\n\n");
-	printf("o resultado da soma eh: %d", soma);
+	printf("o resultado da soma eh: %d\n\n", soma);
 	
 }
 
@@ -52,7 +52,8 @@ void main(){
 			}else{ //se os dois forem ímpares
 				sub = subtrair_a_b(a, b);
 				printf("Esses dois numeors serao subtraidos!!!!\n\n");
-				printf("o resultado da subtracao eh: %d", sub);
+				sub = subtrair_a_b(a, b);
+				printf("o resultado da subtracao eh: %d\n\n", sub);
 				system("\npause");	
 			}
 		}
